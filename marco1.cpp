@@ -28,10 +28,5 @@ for(m=1; m<=numero;m++){ // se repite 5 veces en una sola fila
 printf(" *");	
 }
 
-
-
-
-
-
-	
 }// fin del metodo main
+//marco1 Terminado
