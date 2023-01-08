@@ -31,4 +31,3 @@ printf(" *");
 }// fin del metodo main
 //marco1 Terminado
 //marco terminado por fin
-printf(" ñaa");
