@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main(){
 
-int i,j,k,numero;//supongamos que numero = 4
+int i,j,numero;//supongamos que numero = 4
 printf("Itroduce el numero de filas de la semi piramide: ");
 scanf("%d",&numero);
 
